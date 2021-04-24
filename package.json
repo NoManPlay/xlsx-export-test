@@ -7,7 +7,6 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "file-reader": "^1.1.1",
     "jszip": "2.6.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
